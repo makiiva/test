@@ -9,7 +9,7 @@ import { Component } from '@angular/core';
   styleUrl: './primer-componente.component.css'
 })
 export class PrimerComponenteComponent {
-  mensaje1: string = "Hola Angular";
+  mensaje1: string = "Catalogo de peliculas";
   mensaje2: boolean = false;
   condition: boolean = false;
 }
